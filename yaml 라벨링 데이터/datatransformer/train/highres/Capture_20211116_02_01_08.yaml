@@ -1,0 +1,361 @@
+ANNOTATION:
+  Annotation Type: polygon
+  Anntation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 494
+      - 1
+    - !!python/tuple
+      - 585
+      - 23
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 496
+    - 494
+    - 496
+    - 504
+    - 516
+    - 528
+    - 543
+    - 555
+    - 564
+    - 572
+    - 578
+    - 581
+    - 584
+    - 585
+    - 496
+    Polygon Y Coordinate:
+    - 1
+    - 7
+    - 13
+    - 20
+    - 23
+    - 23
+    - 23
+    - 23
+    - 21
+    - 18
+    - 13
+    - 9
+    - 5
+    - 1
+    - 1
+  - Annotation ID: 1
+    Bounding Box:
+    - !!python/tuple
+      - 665
+      - 111
+    - !!python/tuple
+      - 764
+      - 139
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 665
+    - 668
+    - 677
+    - 691
+    - 708
+    - 725
+    - 740
+    - 752
+    - 761
+    - 764
+    - 762
+    - 756
+    - 742
+    - 723
+    - 706
+    - 691
+    - 682
+    - 673
+    - 669
+    - 665
+    Polygon Y Coordinate:
+    - 123
+    - 128
+    - 133
+    - 136
+    - 139
+    - 139
+    - 138
+    - 138
+    - 134
+    - 128
+    - 122
+    - 117
+    - 113
+    - 111
+    - 111
+    - 113
+    - 116
+    - 118
+    - 119
+    - 123
+  - Annotation ID: 2
+    Bounding Box:
+    - !!python/tuple
+      - 1667
+      - 6
+    - !!python/tuple
+      - 1728
+      - 126
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1667
+    - 1669
+    - 1670
+    - 1678
+    - 1685
+    - 1686
+    - 1693
+    - 1698
+    - 1704
+    - 1710
+    - 1719
+    - 1726
+    - 1728
+    - 1726
+    - 1722
+    - 1716
+    - 1713
+    - 1713
+    - 1711
+    - 1696
+    - 1687
+    - 1679
+    - 1675
+    - 1673
+    - 1670
+    - 1668
+    - 1667
+    Polygon Y Coordinate:
+    - 15
+    - 28
+    - 40
+    - 55
+    - 70
+    - 84
+    - 98
+    - 110
+    - 118
+    - 125
+    - 126
+    - 122
+    - 110
+    - 101
+    - 89
+    - 80
+    - 74
+    - 66
+    - 56
+    - 36
+    - 24
+    - 16
+    - 11
+    - 6
+    - 7
+    - 11
+    - 15
+  - Annotation ID: 3
+    Bounding Box:
+    - !!python/tuple
+      - 403
+      - 1356
+    - !!python/tuple
+      - 521
+      - 1413
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 403
+    - 406
+    - 412
+    - 419
+    - 430
+    - 441
+    - 451
+    - 460
+    - 468
+    - 476
+    - 484
+    - 495
+    - 508
+    - 515
+    - 521
+    - 520
+    - 509
+    - 496
+    - 486
+    - 472
+    - 458
+    - 449
+    - 443
+    - 435
+    - 425
+    - 418
+    - 413
+    - 408
+    - 405
+    - 403
+    Polygon Y Coordinate:
+    - 1395
+    - 1399
+    - 1406
+    - 1411
+    - 1413
+    - 1411
+    - 1406
+    - 1401
+    - 1398
+    - 1400
+    - 1405
+    - 1407
+    - 1406
+    - 1403
+    - 1395
+    - 1384
+    - 1373
+    - 1362
+    - 1357
+    - 1356
+    - 1358
+    - 1364
+    - 1370
+    - 1377
+    - 1385
+    - 1390
+    - 1391
+    - 1391
+    - 1392
+    - 1395
+  - Annotation ID: 4
+    Bounding Box:
+    - !!python/tuple
+      - 322
+      - 1067
+    - !!python/tuple
+      - 368
+      - 1200
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 328
+    - 326
+    - 322
+    - 322
+    - 328
+    - 334
+    - 341
+    - 349
+    - 359
+    - 365
+    - 368
+    - 366
+    - 361
+    - 354
+    - 346
+    - 340
+    - 335
+    - 331
+    - 329
+    - 328
+    Polygon Y Coordinate:
+    - 1071
+    - 1081
+    - 1098
+    - 1133
+    - 1172
+    - 1187
+    - 1198
+    - 1200
+    - 1200
+    - 1196
+    - 1184
+    - 1159
+    - 1120
+    - 1098
+    - 1084
+    - 1077
+    - 1067
+    - 1067
+    - 1069
+    - 1071
+  Iamge File Name: Capture_20211116_02_01_08.jpg
+  Image File MAGNITUDE: 466706
+  Image File Name: Capture_20211116_02_01_08.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: "\uBC84\uC12F\uBC30\uC9C0"
+  Feed Supply Amount: 1
+  Hydration Information: X
+  Insect Average Weight: '0.08'
+  Insect Length: '11'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uACE0\uD574\uC0C1\uB3C4"
+  Camera Info.: XNB-8002
+  Envirn. Info. MEASUREMENT Date and Time: 2021.11.16 02:01:08
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: "\uBC84\uC12F\uBC30\uC9C0"
+  Feed Supply Amount: 1
+  Feed Supply Date and Time: '2021-10-26 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 8
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 466706KB
+  Image File Name: Capture_20211116_02_01_08.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1520
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: 2021.11.16 02:01:08
+  Image Photography Location Information: "\uACE0\uD574\uC0C1\uB3C4\uC0AC\uC721\uBC15\
+    \uC2A4"
+  Image Pixel: 4085760
+  Image Width MAGNITUDE: 2688
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: '2'
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 3328 1872
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.0008'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: "\uBB34"
+  Breeding Room External Air Velocity: 0
+  Breeding Room External Humidity: 94
+  Breeding Room External Temperature: 0
+  Breeding Room External Wind Direction: SE
+  Breeding Room Indoor Ammonia: 2
+  Breeding Room Indoor Co2: 703
+  Breeding Room Indoor Humidity: 96
+  Breeding Room Indoor Illumination Intensity: 53
+  Breeding Room Indoor Oxygen: 21
+  Breeding Room Indoor Surface Moisture Quantity: 18
+  Breeding Room Indoor Temperature: 29
+  Insect Breeding Box Co2: 563
+  Insect Breeding Box Humidity: 100
+  Insect Breeding Box Mat Temperature: 28
+  Insect Breeding Box Temperature: 27

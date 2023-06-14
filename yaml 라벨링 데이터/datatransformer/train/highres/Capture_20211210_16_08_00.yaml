@@ -1,0 +1,528 @@
+ANNOTATION:
+  Annotation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 1648
+      - 982
+    - !!python/tuple
+      - 1762
+      - 1170
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1734
+    - 1732
+    - 1730
+    - 1728
+    - 1726
+    - 1724
+    - 1722
+    - 1720
+    - 1718
+    - 1718
+    - 1716
+    - 1716
+    - 1716
+    - 1716
+    - 1714
+    - 1714
+    - 1712
+    - 1710
+    - 1710
+    - 1708
+    - 1708
+    - 1708
+    - 1708
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1708
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1706
+    - 1704
+    - 1702
+    - 1700
+    - 1698
+    - 1698
+    - 1696
+    - 1694
+    - 1692
+    - 1690
+    - 1688
+    - 1686
+    - 1684
+    - 1684
+    - 1682
+    - 1682
+    - 1680
+    - 1678
+    - 1676
+    - 1674
+    - 1672
+    - 1672
+    - 1670
+    - 1668
+    - 1666
+    - 1664
+    - 1662
+    - 1660
+    - 1658
+    - 1656
+    - 1654
+    - 1652
+    - 1652
+    - 1650
+    - 1650
+    - 1650
+    - 1650
+    - 1648
+    - 1648
+    - 1650
+    - 1650
+    - 1650
+    - 1650
+    - 1652
+    - 1652
+    - 1654
+    - 1656
+    - 1658
+    - 1660
+    - 1662
+    - 1664
+    - 1666
+    - 1668
+    - 1670
+    - 1672
+    - 1674
+    - 1676
+    - 1678
+    - 1680
+    - 1682
+    - 1684
+    - 1686
+    - 1688
+    - 1690
+    - 1692
+    - 1694
+    - 1696
+    - 1698
+    - 1700
+    - 1702
+    - 1704
+    - 1706
+    - 1708
+    - 1710
+    - 1712
+    - 1714
+    - 1716
+    - 1718
+    - 1720
+    - 1722
+    - 1724
+    - 1726
+    - 1728
+    - 1730
+    - 1732
+    - 1734
+    - 1736
+    - 1738
+    - 1740
+    - 1742
+    - 1744
+    - 1746
+    - 1748
+    - 1750
+    - 1750
+    - 1752
+    - 1752
+    - 1752
+    - 1752
+    - 1754
+    - 1754
+    - 1756
+    - 1756
+    - 1756
+    - 1756
+    - 1758
+    - 1756
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1758
+    - 1760
+    - 1760
+    - 1760
+    - 1760
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1760
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1762
+    - 1760
+    - 1760
+    - 1760
+    - 1760
+    - 1758
+    - 1758
+    - 1756
+    - 1754
+    - 1754
+    - 1752
+    - 1750
+    - 1748
+    - 1746
+    - 1744
+    - 1742
+    - 1740
+    - 1738
+    - 1736
+    Polygon Y Coordinate:
+    - 982
+    - 984
+    - 984
+    - 984
+    - 984
+    - 986
+    - 986
+    - 988
+    - 990
+    - 992
+    - 994
+    - 996
+    - 998
+    - 1000
+    - 1002
+    - 1004
+    - 1006
+    - 1008
+    - 1010
+    - 1012
+    - 1014
+    - 1016
+    - 1018
+    - 1020
+    - 1022
+    - 1024
+    - 1026
+    - 1028
+    - 1030
+    - 1032
+    - 1034
+    - 1036
+    - 1038
+    - 1040
+    - 1042
+    - 1044
+    - 1046
+    - 1048
+    - 1050
+    - 1052
+    - 1054
+    - 1056
+    - 1058
+    - 1060
+    - 1062
+    - 1064
+    - 1066
+    - 1068
+    - 1070
+    - 1072
+    - 1074
+    - 1076
+    - 1078
+    - 1080
+    - 1082
+    - 1084
+    - 1086
+    - 1088
+    - 1090
+    - 1092
+    - 1094
+    - 1096
+    - 1098
+    - 1100
+    - 1102
+    - 1104
+    - 1106
+    - 1108
+    - 1110
+    - 1112
+    - 1114
+    - 1116
+    - 1118
+    - 1120
+    - 1122
+    - 1124
+    - 1126
+    - 1128
+    - 1130
+    - 1130
+    - 1132
+    - 1132
+    - 1134
+    - 1136
+    - 1138
+    - 1140
+    - 1142
+    - 1144
+    - 1146
+    - 1148
+    - 1150
+    - 1152
+    - 1154
+    - 1156
+    - 1158
+    - 1160
+    - 1162
+    - 1164
+    - 1166
+    - 1166
+    - 1168
+    - 1168
+    - 1168
+    - 1168
+    - 1170
+    - 1170
+    - 1170
+    - 1168
+    - 1170
+    - 1168
+    - 1168
+    - 1168
+    - 1168
+    - 1166
+    - 1166
+    - 1164
+    - 1164
+    - 1164
+    - 1162
+    - 1162
+    - 1160
+    - 1160
+    - 1158
+    - 1158
+    - 1156
+    - 1154
+    - 1154
+    - 1152
+    - 1150
+    - 1148
+    - 1146
+    - 1146
+    - 1144
+    - 1142
+    - 1140
+    - 1138
+    - 1138
+    - 1136
+    - 1134
+    - 1132
+    - 1130
+    - 1128
+    - 1126
+    - 1124
+    - 1122
+    - 1120
+    - 1118
+    - 1116
+    - 1114
+    - 1112
+    - 1110
+    - 1108
+    - 1106
+    - 1104
+    - 1102
+    - 1100
+    - 1098
+    - 1096
+    - 1094
+    - 1092
+    - 1090
+    - 1088
+    - 1086
+    - 1084
+    - 1082
+    - 1080
+    - 1078
+    - 1076
+    - 1074
+    - 1072
+    - 1070
+    - 1068
+    - 1066
+    - 1064
+    - 1062
+    - 1060
+    - 1058
+    - 1056
+    - 1054
+    - 1052
+    - 1050
+    - 1048
+    - 1046
+    - 1044
+    - 1042
+    - 1040
+    - 1038
+    - 1036
+    - 1034
+    - 1032
+    - 1030
+    - 1028
+    - 1026
+    - 1024
+    - 1022
+    - 1020
+    - 1018
+    - 1016
+    - 1014
+    - 1012
+    - 1010
+    - 1008
+    - 1006
+    - 1004
+    - 1002
+    - 1000
+    - 998
+    - 996
+    - 994
+    - 992
+    - 990
+    - 988
+    - 986
+    - 986
+    - 984
+    - 984
+    - 984
+    - 984
+    - 982
+    - 982
+  Annotation Type: polygon
+  Image File MAGNITUDE: 193420
+  Image File Name: Capture_20211210_16_08_00.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: null
+  Feed Supply Amount: 0
+  Hydration Information: X
+  Insect Average Weight: '0.2'
+  Insect Length: '20'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uACE0\uD574\uC0C1\uB3C4"
+  Camera Info.: XNB-8002
+  Envirn. Info. MEASUREMENT Date and Time: ''
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: null
+  Feed Supply Amount: null
+  Feed Supply Date and Time: '2021-12-17 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 8
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 193420KB
+  Image File Name: Capture_20211210_16_08_00.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1520
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: ''
+  Image Photography Location Information: "\uACE0\uD574\uC0C1\uB3C4\uC0AC\uC721\uBC15\
+    \uC2A4"
+  Image Pixel: 4085760
+  Image Width MAGNITUDE: 2688
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: "\uACE0\uD574\uC0C1\uB3C4"
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 3328 1872
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.0008'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: 0.0
+  Breeding Room External Air Velocity: 0.0
+  Breeding Room External Humidity: 96.0
+  Breeding Room External Temperature: 2.9
+  Breeding Room External Wind Direction: 328.0
+  Breeding Room Indoor Ammonia: 0.0
+  Breeding Room Indoor Co2: 672.0
+  Breeding Room Indoor Humidity: 56
+  Breeding Room Indoor Illumination Intensity: 51.0
+  Breeding Room Indoor Oxygen: 21.0
+  Breeding Room Indoor Surface Moisture Quantity: 35.5
+  Breeding Room Indoor Temperature: 28.6
+  Insect Breeding Box Co2: 515.0
+  Insect Breeding Box Humidity: 60.6
+  Insect Breeding Box Mat Temperature: 21.8
+  Insect Breeding Box Temperature: 24.5

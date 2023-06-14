@@ -1,0 +1,335 @@
+ANNOTATION:
+  Annotation Type: polygon
+  Anntation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 345
+      - 8
+    - !!python/tuple
+      - 416
+      - 81
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 345
+    - 350
+    - 366
+    - 381
+    - 398
+    - 407
+    - 411
+    - 415
+    - 416
+    - 413
+    - 410
+    - 408
+    - 403
+    - 396
+    - 385
+    - 377
+    - 370
+    - 356
+    - 347
+    - 345
+    - 345
+    Polygon Y Coordinate:
+    - 67
+    - 56
+    - 38
+    - 27
+    - 16
+    - 10
+    - 8
+    - 9
+    - 14
+    - 18
+    - 29
+    - 38
+    - 46
+    - 50
+    - 58
+    - 68
+    - 77
+    - 81
+    - 78
+    - 71
+    - 67
+  - Annotation ID: 1
+    Bounding Box:
+    - !!python/tuple
+      - 344
+      - 42
+    - !!python/tuple
+      - 414
+      - 159
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 404
+    - 409
+    - 412
+    - 412
+    - 414
+    - 412
+    - 404
+    - 391
+    - 383
+    - 373
+    - 364
+    - 353
+    - 347
+    - 344
+    - 347
+    - 357
+    - 366
+    - 370
+    - 371
+    - 380
+    - 387
+    - 394
+    - 400
+    - 404
+    Polygon Y Coordinate:
+    - 47
+    - 42
+    - 44
+    - 50
+    - 62
+    - 77
+    - 102
+    - 127
+    - 148
+    - 156
+    - 159
+    - 158
+    - 150
+    - 140
+    - 129
+    - 111
+    - 96
+    - 86
+    - 79
+    - 69
+    - 60
+    - 55
+    - 50
+    - 47
+  - Annotation ID: 2
+    Bounding Box:
+    - !!python/tuple
+      - 386
+      - 56
+    - !!python/tuple
+      - 455
+      - 173
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 391
+    - 401
+    - 411
+    - 424
+    - 441
+    - 448
+    - 453
+    - 455
+    - 448
+    - 440
+    - 429
+    - 421
+    - 410
+    - 400
+    - 389
+    - 386
+    - 388
+    - 391
+    Polygon Y Coordinate:
+    - 136
+    - 116
+    - 100
+    - 83
+    - 64
+    - 56
+    - 57
+    - 71
+    - 99
+    - 128
+    - 149
+    - 166
+    - 173
+    - 173
+    - 164
+    - 152
+    - 143
+    - 136
+  - Annotation ID: 3
+    Bounding Box:
+    - !!python/tuple
+      - 710
+      - 110
+    - !!python/tuple
+      - 748
+      - 210
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 713
+    - 719
+    - 728
+    - 736
+    - 744
+    - 747
+    - 748
+    - 748
+    - 743
+    - 737
+    - 730
+    - 722
+    - 714
+    - 710
+    - 711
+    - 713
+    Polygon Y Coordinate:
+    - 117
+    - 111
+    - 110
+    - 114
+    - 131
+    - 161
+    - 180
+    - 195
+    - 207
+    - 210
+    - 199
+    - 180
+    - 158
+    - 133
+    - 122
+    - 117
+  - Annotation ID: 4
+    Bounding Box:
+    - !!python/tuple
+      - 1699
+      - 396
+    - !!python/tuple
+      - 1744
+      - 526
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1712
+    - 1720
+    - 1726
+    - 1730
+    - 1737
+    - 1737
+    - 1740
+    - 1738
+    - 1739
+    - 1743
+    - 1744
+    - 1738
+    - 1727
+    - 1713
+    - 1706
+    - 1699
+    - 1700
+    - 1703
+    - 1709
+    - 1712
+    Polygon Y Coordinate:
+    - 415
+    - 406
+    - 399
+    - 396
+    - 398
+    - 408
+    - 420
+    - 452
+    - 475
+    - 488
+    - 510
+    - 520
+    - 526
+    - 525
+    - 514
+    - 489
+    - 457
+    - 435
+    - 422
+    - 415
+  Iamge File Name: Capture_20211116_04_36_04.jpg
+  Image File MAGNITUDE: 475571
+  Image File Name: Capture_20211116_04_36_04.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: "\uBC84\uC12F\uBC30\uC9C0"
+  Feed Supply Amount: 1
+  Hydration Information: X
+  Insect Average Weight: '0.08'
+  Insect Length: '11'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uACE0\uD574\uC0C1\uB3C4"
+  Camera Info.: XNB-8002
+  Envirn. Info. MEASUREMENT Date and Time: 2021.11.16 04:36:04
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: "\uBC84\uC12F\uBC30\uC9C0"
+  Feed Supply Amount: 1
+  Feed Supply Date and Time: '2021-10-26 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 8
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 475571KB
+  Image File Name: Capture_20211116_04_36_04.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1520
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: 2021.11.16 04:36:04
+  Image Photography Location Information: "\uACE0\uD574\uC0C1\uB3C4\uC0AC\uC721\uBC15\
+    \uC2A4"
+  Image Pixel: 4085760
+  Image Width MAGNITUDE: 2688
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: '2'
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 3328 1872
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.0008'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: "\uBB34"
+  Breeding Room External Air Velocity: 0
+  Breeding Room External Humidity: 95
+  Breeding Room External Temperature: -1
+  Breeding Room External Wind Direction: N
+  Breeding Room Indoor Ammonia: 2
+  Breeding Room Indoor Co2: 733
+  Breeding Room Indoor Humidity: 96
+  Breeding Room Indoor Illumination Intensity: 53
+  Breeding Room Indoor Oxygen: 21
+  Breeding Room Indoor Surface Moisture Quantity: 19
+  Breeding Room Indoor Temperature: 30
+  Insect Breeding Box Co2: 588
+  Insect Breeding Box Humidity: 100
+  Insect Breeding Box Mat Temperature: 28
+  Insect Breeding Box Temperature: 28

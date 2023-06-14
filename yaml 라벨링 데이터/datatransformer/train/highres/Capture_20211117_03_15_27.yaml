@@ -1,0 +1,329 @@
+ANNOTATION:
+  Annotation Type: polygon
+  Anntation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 456
+      - 13
+    - !!python/tuple
+      - 689
+      - 123
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 675
+    - 657
+    - 616
+    - 566
+    - 538
+    - 515
+    - 495
+    - 479
+    - 475
+    - 458
+    - 456
+    - 467
+    - 471
+    - 490
+    - 510
+    - 596
+    - 660
+    - 687
+    - 689
+    - 683
+    - 675
+    Polygon Y Coordinate:
+    - 16
+    - 13
+    - 20
+    - 31
+    - 43
+    - 52
+    - 67
+    - 84
+    - 91
+    - 98
+    - 106
+    - 107
+    - 114
+    - 123
+    - 123
+    - 106
+    - 78
+    - 60
+    - 41
+    - 28
+    - 16
+  - Annotation ID: 1
+    Bounding Box:
+    - !!python/tuple
+      - 1277
+      - 32
+    - !!python/tuple
+      - 1526
+      - 111
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1468
+    - 1430
+    - 1367
+    - 1332
+    - 1307
+    - 1289
+    - 1278
+    - 1277
+    - 1285
+    - 1300
+    - 1339
+    - 1419
+    - 1485
+    - 1511
+    - 1522
+    - 1526
+    - 1515
+    - 1468
+    Polygon Y Coordinate:
+    - 47
+    - 39
+    - 33
+    - 32
+    - 39
+    - 52
+    - 52
+    - 64
+    - 66
+    - 72
+    - 84
+    - 100
+    - 111
+    - 106
+    - 98
+    - 79
+    - 64
+    - 47
+  - Annotation ID: 2
+    Bounding Box:
+    - !!python/tuple
+      - 1428
+      - 149
+    - !!python/tuple
+      - 1639
+      - 257
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1539
+    - 1502
+    - 1471
+    - 1450
+    - 1436
+    - 1428
+    - 1432
+    - 1446
+    - 1478
+    - 1560
+    - 1600
+    - 1621
+    - 1639
+    - 1639
+    - 1639
+    - 1634
+    - 1624
+    - 1589
+    - 1561
+    - 1539
+    Polygon Y Coordinate:
+    - 177
+    - 162
+    - 150
+    - 149
+    - 157
+    - 181
+    - 190
+    - 202
+    - 221
+    - 248
+    - 257
+    - 257
+    - 257
+    - 257
+    - 249
+    - 242
+    - 222
+    - 194
+    - 185
+    - 177
+  - Annotation ID: 3
+    Bounding Box:
+    - !!python/tuple
+      - 1735
+      - 230
+    - !!python/tuple
+      - 1829
+      - 451
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1759
+    - 1759
+    - 1755
+    - 1743
+    - 1743
+    - 1735
+    - 1739
+    - 1752
+    - 1771
+    - 1782
+    - 1803
+    - 1819
+    - 1827
+    - 1829
+    - 1818
+    - 1806
+    - 1788
+    - 1778
+    - 1759
+    Polygon Y Coordinate:
+    - 242
+    - 242
+    - 230
+    - 232
+    - 244
+    - 254
+    - 289
+    - 364
+    - 431
+    - 448
+    - 451
+    - 447
+    - 435
+    - 416
+    - 368
+    - 317
+    - 280
+    - 253
+    - 242
+  - Annotation ID: 4
+    Bounding Box:
+    - !!python/tuple
+      - 1600
+      - 1402
+    - !!python/tuple
+      - 1841
+      - 1475
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1827
+    - 1827
+    - 1841
+    - 1839
+    - 1825
+    - 1799
+    - 1720
+    - 1655
+    - 1617
+    - 1602
+    - 1600
+    - 1608
+    - 1624
+    - 1663
+    - 1760
+    - 1804
+    - 1823
+    - 1827
+    Polygon Y Coordinate:
+    - 1422
+    - 1422
+    - 1416
+    - 1406
+    - 1410
+    - 1402
+    - 1402
+    - 1410
+    - 1424
+    - 1438
+    - 1458
+    - 1470
+    - 1475
+    - 1474
+    - 1463
+    - 1446
+    - 1434
+    - 1422
+  Iamge File Name: Capture_20211117_03_15_27.jpg
+  Image File MAGNITUDE: 216577
+  Image File Name: Capture_20211117_03_15_27.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: X
+  Feed Supply Amount: 0
+  Hydration Information: X
+  Insect Average Weight: '0.07'
+  Insect Length: '8'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uACE0\uD574\uC0C1\uB3C4"
+  Camera Info.: XNB-8002
+  Envirn. Info. MEASUREMENT Date and Time: 2021.11.17 03:15:27
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: X
+  Feed Supply Amount: 0
+  Feed Supply Date and Time: '2021-10-26 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 8
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 216577KB
+  Image File Name: Capture_20211117_03_15_27.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1520
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: 2021.11.17 03:15:27
+  Image Photography Location Information: "\uACE0\uD574\uC0C1\uB3C4\uC0AC\uC721\uBC15\
+    \uC2A4"
+  Image Pixel: 4085760
+  Image Width MAGNITUDE: 2688
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: "\uACE0\uD574\uC0C1\uB3C4"
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 3328 1872
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.0008'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: "\uBB34"
+  Breeding Room External Air Velocity: 0
+  Breeding Room External Humidity: 93
+  Breeding Room External Temperature: -2
+  Breeding Room External Wind Direction: N
+  Breeding Room Indoor Ammonia: 1
+  Breeding Room Indoor Co2: 931
+  Breeding Room Indoor Humidity: 96
+  Breeding Room Indoor Illumination Intensity: 53
+  Breeding Room Indoor Oxygen: 21
+  Breeding Room Indoor Surface Moisture Quantity: 20
+  Breeding Room Indoor Temperature: 30
+  Insect Breeding Box Co2: 762
+  Insect Breeding Box Humidity: 100
+  Insect Breeding Box Mat Temperature: 27
+  Insect Breeding Box Temperature: 27

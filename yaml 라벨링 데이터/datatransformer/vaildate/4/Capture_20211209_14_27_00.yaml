@@ -1,0 +1,407 @@
+ANNOTATION:
+  Annotation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 1802
+      - 1110
+    - !!python/tuple
+      - 1928
+      - 1212
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1918
+    - 1916
+    - 1914
+    - 1912
+    - 1910
+    - 1908
+    - 1906
+    - 1904
+    - 1902
+    - 1900
+    - 1898
+    - 1896
+    - 1894
+    - 1892
+    - 1892
+    - 1890
+    - 1888
+    - 1886
+    - 1884
+    - 1882
+    - 1880
+    - 1878
+    - 1876
+    - 1874
+    - 1872
+    - 1870
+    - 1868
+    - 1866
+    - 1864
+    - 1862
+    - 1860
+    - 1858
+    - 1856
+    - 1854
+    - 1852
+    - 1850
+    - 1848
+    - 1846
+    - 1844
+    - 1842
+    - 1840
+    - 1838
+    - 1836
+    - 1834
+    - 1832
+    - 1830
+    - 1828
+    - 1826
+    - 1824
+    - 1822
+    - 1820
+    - 1818
+    - 1816
+    - 1814
+    - 1812
+    - 1810
+    - 1808
+    - 1806
+    - 1804
+    - 1804
+    - 1804
+    - 1802
+    - 1802
+    - 1802
+    - 1802
+    - 1802
+    - 1802
+    - 1802
+    - 1802
+    - 1804
+    - 1804
+    - 1804
+    - 1806
+    - 1806
+    - 1808
+    - 1810
+    - 1812
+    - 1814
+    - 1816
+    - 1818
+    - 1820
+    - 1822
+    - 1824
+    - 1826
+    - 1828
+    - 1830
+    - 1832
+    - 1834
+    - 1836
+    - 1838
+    - 1840
+    - 1842
+    - 1844
+    - 1846
+    - 1848
+    - 1850
+    - 1852
+    - 1854
+    - 1856
+    - 1858
+    - 1860
+    - 1862
+    - 1864
+    - 1866
+    - 1868
+    - 1870
+    - 1872
+    - 1874
+    - 1876
+    - 1878
+    - 1880
+    - 1882
+    - 1884
+    - 1886
+    - 1888
+    - 1890
+    - 1892
+    - 1894
+    - 1896
+    - 1898
+    - 1898
+    - 1900
+    - 1902
+    - 1904
+    - 1906
+    - 1906
+    - 1908
+    - 1910
+    - 1912
+    - 1912
+    - 1914
+    - 1916
+    - 1916
+    - 1918
+    - 1920
+    - 1920
+    - 1922
+    - 1922
+    - 1922
+    - 1924
+    - 1926
+    - 1926
+    - 1926
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1928
+    - 1926
+    - 1926
+    - 1926
+    - 1924
+    - 1922
+    - 1920
+    Polygon Y Coordinate:
+    - 1110
+    - 1112
+    - 1112
+    - 1112
+    - 1114
+    - 1116
+    - 1118
+    - 1120
+    - 1122
+    - 1124
+    - 1126
+    - 1128
+    - 1128
+    - 1130
+    - 1132
+    - 1134
+    - 1134
+    - 1136
+    - 1138
+    - 1140
+    - 1142
+    - 1144
+    - 1146
+    - 1146
+    - 1148
+    - 1150
+    - 1150
+    - 1152
+    - 1154
+    - 1156
+    - 1156
+    - 1158
+    - 1160
+    - 1160
+    - 1160
+    - 1162
+    - 1164
+    - 1164
+    - 1164
+    - 1166
+    - 1166
+    - 1168
+    - 1168
+    - 1170
+    - 1170
+    - 1170
+    - 1170
+    - 1172
+    - 1172
+    - 1172
+    - 1174
+    - 1174
+    - 1174
+    - 1174
+    - 1174
+    - 1176
+    - 1176
+    - 1176
+    - 1178
+    - 1180
+    - 1182
+    - 1184
+    - 1186
+    - 1188
+    - 1190
+    - 1192
+    - 1194
+    - 1196
+    - 1198
+    - 1200
+    - 1202
+    - 1204
+    - 1206
+    - 1208
+    - 1210
+    - 1210
+    - 1210
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1212
+    - 1210
+    - 1210
+    - 1210
+    - 1210
+    - 1210
+    - 1210
+    - 1210
+    - 1208
+    - 1208
+    - 1208
+    - 1206
+    - 1206
+    - 1206
+    - 1204
+    - 1204
+    - 1202
+    - 1202
+    - 1200
+    - 1200
+    - 1198
+    - 1196
+    - 1196
+    - 1194
+    - 1194
+    - 1192
+    - 1190
+    - 1190
+    - 1188
+    - 1186
+    - 1186
+    - 1184
+    - 1182
+    - 1180
+    - 1180
+    - 1178
+    - 1176
+    - 1174
+    - 1172
+    - 1172
+    - 1170
+    - 1168
+    - 1166
+    - 1164
+    - 1162
+    - 1160
+    - 1158
+    - 1156
+    - 1154
+    - 1152
+    - 1150
+    - 1148
+    - 1146
+    - 1144
+    - 1142
+    - 1140
+    - 1138
+    - 1136
+    - 1134
+    - 1132
+    - 1130
+    - 1128
+    - 1126
+    - 1124
+    - 1122
+    - 1120
+    - 1118
+    - 1116
+    - 1114
+    - 1112
+    - 1112
+    - 1112
+  Annotation Type: polygon
+  Image File MAGNITUDE: 126564
+  Image File Name: Capture_20211209_14_27_00.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: null
+  Feed Supply Amount: 0
+  Hydration Information: X
+  Insect Average Weight: '0.2'
+  Insect Length: '18'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uC800\uD574\uC0C1\uB3C4"
+  Camera Info.: ENIPNCT3
+  Envirn. Info. MEASUREMENT Date and Time: 2021.12.09 14:27:00
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: null
+  Feed Supply Amount: null
+  Feed Supply Date and Time: '2021-12-17 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 2
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 126564KB
+  Image File Name: Capture_20211209_14_27_00.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1440
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: 2021.12.09 14:27:00
+  Image Photography Location Information: "3\uBC88\uC0AC\uC721\uBC15\uC2A4"
+  Image Pixel: 3686400
+  Image Width MAGNITUDE: 2560
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: '3'
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 2560 1440
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.5'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: 0.0
+  Breeding Room External Air Velocity: 0.0
+  Breeding Room External Humidity: 95.5
+  Breeding Room External Temperature: -2.1
+  Breeding Room External Wind Direction: 316.0
+  Breeding Room Indoor Ammonia: 0.0
+  Breeding Room Indoor Co2: 624.0
+  Breeding Room Indoor Humidity: 32
+  Breeding Room Indoor Illumination Intensity: 51.0
+  Breeding Room Indoor Oxygen: 21.1
+  Breeding Room Indoor Surface Moisture Quantity: 29.0
+  Breeding Room Indoor Temperature: 30.5
+  Insect Breeding Box Co2: 724.0
+  Insect Breeding Box Humidity: 36.6
+  Insect Breeding Box Mat Temperature: 28.9
+  Insect Breeding Box Temperature: 27.6

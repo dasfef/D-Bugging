@@ -1,0 +1,329 @@
+ANNOTATION:
+  Annotation Type: polygon
+  Anntation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 323
+      - 360
+    - !!python/tuple
+      - 359
+      - 478
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 323
+    - 326
+    - 330
+    - 342
+    - 350
+    - 356
+    - 358
+    - 359
+    - 357
+    - 353
+    - 353
+    - 348
+    - 343
+    - 340
+    - 332
+    - 330
+    - 326
+    - 323
+    - 323
+    Polygon Y Coordinate:
+    - 403
+    - 365
+    - 360
+    - 361
+    - 364
+    - 373
+    - 386
+    - 413
+    - 440
+    - 457
+    - 457
+    - 465
+    - 472
+    - 477
+    - 478
+    - 471
+    - 448
+    - 421
+    - 403
+  - Annotation ID: 1
+    Bounding Box:
+    - !!python/tuple
+      - 687
+      - 104
+    - !!python/tuple
+      - 753
+      - 187
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 687
+    - 689
+    - 693
+    - 709
+    - 731
+    - 737
+    - 744
+    - 750
+    - 753
+    - 750
+    - 734
+    - 721
+    - 712
+    - 704
+    - 697
+    - 691
+    - 688
+    - 687
+    Polygon Y Coordinate:
+    - 181
+    - 171
+    - 160
+    - 137
+    - 112
+    - 106
+    - 104
+    - 105
+    - 110
+    - 122
+    - 151
+    - 169
+    - 176
+    - 181
+    - 184
+    - 187
+    - 185
+    - 181
+  - Annotation ID: 2
+    Bounding Box:
+    - !!python/tuple
+      - 1494
+      - 12
+    - !!python/tuple
+      - 1547
+      - 124
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 1547
+    - 1547
+    - 1541
+    - 1534
+    - 1531
+    - 1527
+    - 1520
+    - 1511
+    - 1503
+    - 1498
+    - 1494
+    - 1496
+    - 1507
+    - 1517
+    - 1525
+    - 1535
+    - 1541
+    - 1543
+    - 1547
+    Polygon Y Coordinate:
+    - 12
+    - 22
+    - 48
+    - 79
+    - 103
+    - 115
+    - 120
+    - 124
+    - 122
+    - 112
+    - 94
+    - 69
+    - 42
+    - 28
+    - 20
+    - 15
+    - 12
+    - 12
+    - 12
+  - Annotation ID: 3
+    Bounding Box:
+    - !!python/tuple
+      - 396
+      - 1366
+    - !!python/tuple
+      - 529
+      - 1421
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 403
+    - 409
+    - 425
+    - 442
+    - 483
+    - 501
+    - 506
+    - 528
+    - 529
+    - 519
+    - 501
+    - 472
+    - 445
+    - 421
+    - 402
+    - 396
+    - 397
+    - 401
+    - 403
+    Polygon Y Coordinate:
+    - 1373
+    - 1368
+    - 1366
+    - 1370
+    - 1381
+    - 1388
+    - 1390
+    - 1413
+    - 1414
+    - 1418
+    - 1421
+    - 1421
+    - 1417
+    - 1407
+    - 1398
+    - 1388
+    - 1378
+    - 1375
+    - 1373
+  - Annotation ID: 4
+    Bounding Box:
+    - !!python/tuple
+      - 501
+      - 1367
+    - !!python/tuple
+      - 590
+      - 1421
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 504
+    - 521
+    - 531
+    - 541
+    - 555
+    - 570
+    - 580
+    - 584
+    - 590
+    - 587
+    - 578
+    - 570
+    - 554
+    - 538
+    - 530
+    - 520
+    - 506
+    - 501
+    - 501
+    - 502
+    - 504
+    Polygon Y Coordinate:
+    - 1368
+    - 1367
+    - 1377
+    - 1387
+    - 1392
+    - 1396
+    - 1401
+    - 1407
+    - 1412
+    - 1415
+    - 1417
+    - 1421
+    - 1421
+    - 1416
+    - 1413
+    - 1403
+    - 1388
+    - 1381
+    - 1375
+    - 1370
+    - 1368
+  Iamge File Name: Capture_20211116_04_08_18.jpg
+  Image File MAGNITUDE: 475797
+  Image File Name: Capture_20211116_04_08_18.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: "\uBC84\uC12F\uBC30\uC9C0"
+  Feed Supply Amount: 1
+  Hydration Information: X
+  Insect Average Weight: '0.08'
+  Insect Length: '11'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uACE0\uD574\uC0C1\uB3C4"
+  Camera Info.: XNB-8002
+  Envirn. Info. MEASUREMENT Date and Time: 2021.11.16 04:08:18
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: "\uBC84\uC12F\uBC30\uC9C0"
+  Feed Supply Amount: 1
+  Feed Supply Date and Time: '2021-10-26 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 8
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 475797KB
+  Image File Name: Capture_20211116_04_08_18.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1520
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: 2021.11.16 04:08:18
+  Image Photography Location Information: "\uACE0\uD574\uC0C1\uB3C4\uC0AC\uC721\uBC15\
+    \uC2A4"
+  Image Pixel: 4085760
+  Image Width MAGNITUDE: 2688
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: '2'
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 3328 1872
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.0008'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: "\uBB34"
+  Breeding Room External Air Velocity: 0
+  Breeding Room External Humidity: 95
+  Breeding Room External Temperature: -1
+  Breeding Room External Wind Direction: NW
+  Breeding Room Indoor Ammonia: 1
+  Breeding Room Indoor Co2: 724
+  Breeding Room Indoor Humidity: 96
+  Breeding Room Indoor Illumination Intensity: 53
+  Breeding Room Indoor Oxygen: 21
+  Breeding Room Indoor Surface Moisture Quantity: 20
+  Breeding Room Indoor Temperature: 30
+  Insect Breeding Box Co2: 590
+  Insect Breeding Box Humidity: 100
+  Insect Breeding Box Mat Temperature: 28
+  Insect Breeding Box Temperature: 27

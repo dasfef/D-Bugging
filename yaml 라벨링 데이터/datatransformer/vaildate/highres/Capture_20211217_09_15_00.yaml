@@ -1,0 +1,476 @@
+ANNOTATION:
+  Annotation Regions:
+  - Annotation ID: 0
+    Bounding Box:
+    - !!python/tuple
+      - 1992
+      - 222
+    - !!python/tuple
+      - 2170
+      - 274
+    Object Class Code: ''
+    Object Name: Ptecticus_tenebrifer_worm
+    Polygon X Coordinate:
+    - 2028
+    - 2026
+    - 2024
+    - 2022
+    - 2020
+    - 2018
+    - 2016
+    - 2014
+    - 2012
+    - 2010
+    - 2008
+    - 2006
+    - 2004
+    - 2002
+    - 2000
+    - 1998
+    - 1996
+    - 1996
+    - 1996
+    - 1994
+    - 1996
+    - 1994
+    - 1994
+    - 1994
+    - 1992
+    - 1994
+    - 1994
+    - 1994
+    - 1996
+    - 1998
+    - 2000
+    - 2002
+    - 2004
+    - 2006
+    - 2008
+    - 2010
+    - 2012
+    - 2014
+    - 2016
+    - 2018
+    - 2020
+    - 2022
+    - 2024
+    - 2026
+    - 2028
+    - 2030
+    - 2032
+    - 2034
+    - 2036
+    - 2038
+    - 2040
+    - 2042
+    - 2044
+    - 2046
+    - 2048
+    - 2050
+    - 2052
+    - 2054
+    - 2056
+    - 2058
+    - 2060
+    - 2062
+    - 2064
+    - 2066
+    - 2068
+    - 2070
+    - 2072
+    - 2074
+    - 2076
+    - 2078
+    - 2080
+    - 2082
+    - 2084
+    - 2086
+    - 2088
+    - 2090
+    - 2092
+    - 2094
+    - 2096
+    - 2098
+    - 2100
+    - 2102
+    - 2104
+    - 2106
+    - 2108
+    - 2110
+    - 2112
+    - 2114
+    - 2116
+    - 2118
+    - 2120
+    - 2122
+    - 2124
+    - 2126
+    - 2128
+    - 2130
+    - 2132
+    - 2134
+    - 2136
+    - 2138
+    - 2140
+    - 2142
+    - 2144
+    - 2146
+    - 2148
+    - 2150
+    - 2152
+    - 2154
+    - 2156
+    - 2158
+    - 2158
+    - 2160
+    - 2162
+    - 2164
+    - 2166
+    - 2168
+    - 2168
+    - 2168
+    - 2170
+    - 2168
+    - 2168
+    - 2168
+    - 2166
+    - 2166
+    - 2166
+    - 2164
+    - 2162
+    - 2160
+    - 2158
+    - 2158
+    - 2156
+    - 2154
+    - 2152
+    - 2150
+    - 2148
+    - 2146
+    - 2144
+    - 2142
+    - 2140
+    - 2138
+    - 2136
+    - 2134
+    - 2132
+    - 2130
+    - 2128
+    - 2126
+    - 2124
+    - 2122
+    - 2120
+    - 2118
+    - 2116
+    - 2114
+    - 2112
+    - 2110
+    - 2108
+    - 2106
+    - 2104
+    - 2102
+    - 2100
+    - 2098
+    - 2096
+    - 2094
+    - 2092
+    - 2090
+    - 2088
+    - 2086
+    - 2084
+    - 2082
+    - 2080
+    - 2078
+    - 2076
+    - 2074
+    - 2072
+    - 2070
+    - 2068
+    - 2066
+    - 2064
+    - 2062
+    - 2060
+    - 2058
+    - 2056
+    - 2054
+    - 2052
+    - 2050
+    - 2048
+    - 2046
+    - 2044
+    - 2042
+    - 2040
+    - 2038
+    - 2036
+    - 2034
+    - 2032
+    - 2030
+    Polygon Y Coordinate:
+    - 222
+    - 224
+    - 224
+    - 224
+    - 226
+    - 224
+    - 226
+    - 226
+    - 226
+    - 226
+    - 228
+    - 226
+    - 226
+    - 228
+    - 228
+    - 228
+    - 230
+    - 232
+    - 234
+    - 236
+    - 238
+    - 240
+    - 242
+    - 244
+    - 246
+    - 248
+    - 250
+    - 252
+    - 254
+    - 254
+    - 254
+    - 256
+    - 256
+    - 258
+    - 258
+    - 260
+    - 260
+    - 260
+    - 262
+    - 264
+    - 266
+    - 266
+    - 266
+    - 268
+    - 268
+    - 268
+    - 268
+    - 268
+    - 270
+    - 270
+    - 270
+    - 272
+    - 272
+    - 270
+    - 272
+    - 270
+    - 272
+    - 272
+    - 272
+    - 270
+    - 272
+    - 272
+    - 272
+    - 270
+    - 272
+    - 272
+    - 272
+    - 272
+    - 272
+    - 272
+    - 272
+    - 272
+    - 270
+    - 272
+    - 270
+    - 272
+    - 270
+    - 272
+    - 270
+    - 272
+    - 270
+    - 270
+    - 270
+    - 272
+    - 270
+    - 272
+    - 270
+    - 272
+    - 272
+    - 272
+    - 272
+    - 272
+    - 270
+    - 272
+    - 272
+    - 272
+    - 272
+    - 274
+    - 272
+    - 272
+    - 272
+    - 270
+    - 270
+    - 270
+    - 270
+    - 272
+    - 270
+    - 270
+    - 270
+    - 268
+    - 266
+    - 264
+    - 262
+    - 262
+    - 262
+    - 260
+    - 258
+    - 256
+    - 254
+    - 252
+    - 250
+    - 248
+    - 246
+    - 244
+    - 242
+    - 240
+    - 240
+    - 240
+    - 238
+    - 236
+    - 234
+    - 234
+    - 232
+    - 232
+    - 232
+    - 230
+    - 230
+    - 230
+    - 228
+    - 228
+    - 226
+    - 224
+    - 224
+    - 224
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 224
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 224
+    - 222
+    - 224
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 224
+    - 222
+    - 224
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 222
+    - 224
+    - 222
+    - 224
+    - 222
+    - 222
+  Annotation Type: polygon
+  Image File MAGNITUDE: 177420
+  Image File Name: Capture_20211217_09_15_00.jpg
+MANAGEMENT:
+  Feed Nutrition Ingredient: null
+  Feed Supply Amount: 0
+  Hydration Information: X
+  Insect Average Weight: '0.15'
+  Insect Length: '21'
+  Insect Molting Information: X
+  Insect infection status: X
+META:
+  Bit: null
+  CCTV Name: "\uACE0\uD574\uC0C1\uB3C4"
+  Camera Info.: XNB-8002
+  Envirn. Info. MEASUREMENT Date and Time: ''
+  Equipment Information: RGB CAM
+  F-STOP: null
+  Feed Ingredient: null
+  Feed Supply Amount: null
+  Feed Supply Date and Time: '2021-12-17 00:00:00'
+  Filter Use ALTERNATIVE: false
+  Flashlight Use ALTERNATIVE: false
+  Focal Length: 8
+  Growth Step Code: '1'
+  Growth Step Name: "\uC560\uBC8C\uB808"
+  ISO Speed: null
+  Image Color Depth: null
+  Image Color Group Code: null
+  Image Copyright Information: FOODYWORM
+  Image File Format: jpg
+  Image File Identification: 0
+  Image File MAGNITUDE: 177420KB
+  Image File Name: Capture_20211217_09_15_00.jpg
+  Image File Type: null
+  Image Height MAGNITUDE: 1520
+  Image Obtaion Place Type: Huge_farm
+  Image Photography Date and Time: ''
+  Image Photography Location Information: "\uACE0\uD574\uC0C1\uB3C4\uC0AC\uC721\uBC15\
+    \uC2A4"
+  Image Pixel: 4085760
+  Image Width MAGNITUDE: 2688
+  Insect Breeding Box Size: Huge_cage
+  Insect Breeding Room Box Number: "\uACE0\uD574\uC0C1\uB3C4"
+  Insect Farm Name: "\uD478\uB514\uC6DC"
+  Insect Name: "\uB3D9\uC560\uB4F1\uC5D0"
+  Length AND Breadth Rate: '4:3'
+  MEASUREMENT Sensor INSTALLATION EXISTENCE AND NONEXISTENCE: Y
+  PHOTOGRAPHY YEAR: null
+  Phothgrapher: FOODYWORM
+  Photography Area Name: "\uC74C\uC131"
+  Resolution: 3328 1872
+  Scientific Name: Ptecticus_tenebrifer_worm
+  Shutter Speed: '0.0008'
+  Store Course: null
+  THEMA: null
+  White Balance: null
+SENSOR:
+  Breeding Room External / Alternative: 0.0
+  Breeding Room External Air Velocity: 0.0
+  Breeding Room External Humidity: 52.0
+  Breeding Room External Temperature: -8.7
+  Breeding Room External Wind Direction: 323.0
+  Breeding Room Indoor Ammonia: 0.0
+  Breeding Room Indoor Co2: 499.0
+  Breeding Room Indoor Humidity: 29
+  Breeding Room Indoor Illumination Intensity: 53.0
+  Breeding Room Indoor Oxygen: 21.0
+  Breeding Room Indoor Surface Moisture Quantity: 15.0
+  Breeding Room Indoor Temperature: 27.1
+  Insect Breeding Box Co2: 355.0
+  Insect Breeding Box Humidity: 33.6
+  Insect Breeding Box Mat Temperature: 22.7
+  Insect Breeding Box Temperature: 23.7
