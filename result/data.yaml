@@ -1,0 +1,6 @@
+train: C:/Users/User/Desktop/InsectData/ConvertData/Cam2_data/images/train
+val: C:/Users/User/Desktop/InsectData/ConvertData/Cam2_data/images/val
+test: []
+
+nc: 1
+names: ['bug']
