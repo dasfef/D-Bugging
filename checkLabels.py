@@ -2,7 +2,7 @@ import os
 import glob
 
 # .txt 파일이 있는 디렉토리 지정
-directory = 'C:/Users/User/Desktop/InsectData/ConvertData/Cam2'
+directory = 'C:/Users/user/Desktop/InsectData/convertData/HighDefinition/labels/train'
 
 # 디렉토리 내의 모든 .txt 파일 검사
 for file in glob.glob(os.path.join(directory, '*.txt')):

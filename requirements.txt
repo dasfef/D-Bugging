@@ -1,0 +1,14 @@
+ipykernel
+tensorflow==2.8
+tensorflow-datasets
+tensorflow-hub
+jupyter
+spyder
+matplotlib
+pandas
+seaborn
+scikit-learn
+pymysql
+opencv-python
+opencv-contrib-python
+protobuf==3.20.*

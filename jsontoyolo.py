@@ -5,10 +5,10 @@ import glob
 def convert(size, box):
     dw = 1./size[0]
     dh = 1./size[1]
-    x = (box[0] + box[1])/2.0
-    y = (box[2] + box[3])/2.0
-    w = abs(box[1] - box[0])
-    h = abs(box[3] - box[2])
+    x = (box[0] + box[2])/2.0
+    y = (box[1] + box[3])/2.0
+    w = (box[2] - box[0])
+    h = (box[3] - box[1])
     x = x*dw
     w = w*dw
     y = y*dh
@@ -41,9 +41,9 @@ def convert_annotation(json_path, output_path):
                 outfile.write(f"{category_id} {bb[0]} {bb[1]} {bb[2]} {bb[3]}\n")
 
 # json 파일 위치 경로 입력
-json_paths = glob.glob('C:/Users/User/Desktop/InsectData/Data/Training/labelData/TL1/PtecticusTenebrifer/Caterpillar/Cam2/*.json')  
+json_paths = glob.glob('D:/InsectData/data/Training/LabelData/TL1/PtecticusTenebrifer/Caterpillar/CAM2/*.json')  
 # 저장될 위치 경로 입력
-output_path = 'C:/Users/User/Desktop/InsectData/ConvertData/Cam2' 
+output_path = 'D:/InsectData/convertData/Cam2/labels' 
 
 os.makedirs(output_path, exist_ok=True)
 
