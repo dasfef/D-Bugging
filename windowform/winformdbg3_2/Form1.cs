@@ -19,7 +19,9 @@ using System.Diagnostics;
 using Emgu.CV.Structure;
 using Emgu.Util;
 using Emgu.CV;
+using WebSocketSharp;
 using System.IO.Ports;
+using System.Drawing.Text;
 
 namespace winformdbg3
 {
@@ -30,10 +32,11 @@ namespace winformdbg3
         private static readonly HttpClient client = new HttpClient(); // 소켓 고갈 방지 목적의 클래스 레벨 선언
         private System.Timers.Timer _timer;
 
+
         //아두이노로 모듈을 제어하기 위해 연결 필요
         SerialPort ComPort = new SerialPort();
 
-        String fanTgl, usonicTgl, lampTgl;
+        String fanTgl, usonicTgl, lampTgl = "";
 
         VideoCapture capture;
         Mat frame;
@@ -85,16 +88,30 @@ namespace winformdbg3
                 lblHumi.Text = data["Humidity"].ToString();
                 lblAmmo.Text = data["Ammonium"].ToString();
                 lblCO2.Text = data["CO2"].ToString();
+
+                //데이터베이스에 저장된 모듈 값 가져오기
+                label4.Text = data["FanOnOff"].ToString();
+                label5.Text = data["UsonicOnOff"].ToString();
+                label6.Text = data["LampOnOff"].ToString();
             });
 
-            //데이터베이스에 저장된 모듈 값 가져오기
-            fanTgl = data["FanOnOff"].ToString();
-            usonicTgl= data["UsonicOnOff"].ToString();
-            lampTgl = data["LampOnOff"].ToString();
-            
         }
 
+        private WebSocket mWebSocket;
 
+        public void Client()
+        {
+            StartConnect();
+        }
+        public void StartConnect()
+        {
+            mWebSocket = new WebSocket("ws://192.168.0.46:8800");
+            mWebSocket.OnOpen += (sender, e) =>
+            {
+
+            };
+            mWebSocket.Connect();
+        }
 
 
         private async void btnStartStream(object sender, EventArgs e)
@@ -104,14 +121,19 @@ namespace winformdbg3
             {
                 try
                 {
-                    InitializeCapture();
-                    Application.Idle += ProcessFrame;
+                    /*InitializeCapture();
+                    Application.Idle += ProcessFrame;*/
+
+                    Client();
+
                 }
                 catch (Exception ex)
                 {
                     MessageBox.Show("Failed to initialize video capture. Error: " + ex.Message);
                 }
             }
+                
+            
             else // 버튼이 꺼져있는 경우
             {
                 Application.Idle -= ProcessFrame; // 이벤트 핸들러 제거
@@ -126,13 +148,13 @@ namespace winformdbg3
 
 
         }
+                
 
         private void btnStopStream(object sender, EventArgs e)
         {
 
 
         }
-
 
 
         private void Form1_Load(object sender, EventArgs e)
@@ -150,11 +172,13 @@ namespace winformdbg3
             ComPort.DiscardInBuffer();
 
             if (fanTgl == "on") { tglFan.Checked = true; }
-            else { tglFan.Checked = false; }
+            else if (fanTgl == "off") { tglFan.Checked = false; }
+
             if (usonicTgl == "on") { tglMoist.Checked = true; }
-            else { tglMoist.Checked = false; }
+            else if (usonicTgl == "off") { tglMoist.Checked = false; }
+
             if (lampTgl == "on") { tglLED.Checked = true; }
-            else { tglLED.Checked = false; }
+            else if(lampTgl == "off"){ tglLED.Checked = false; }
 
         }
 

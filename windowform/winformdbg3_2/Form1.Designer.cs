@@ -48,6 +48,9 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btnReset = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -136,9 +139,9 @@
             // 
             this.button1.Location = new System.Drawing.Point(726, 412);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(109, 23);
             this.button1.TabIndex = 21;
-            this.button1.Text = "button1";
+            this.button1.Text = "그래프 보기";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
@@ -232,11 +235,41 @@
             this.btnReset.UseVisualStyleBackColor = true;
             this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(471, 363);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(22, 12);
+            this.label4.TabIndex = 34;
+            this.label4.Text = "fan";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(511, 363);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(22, 12);
+            this.label5.TabIndex = 35;
+            this.label5.Text = "fan";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(557, 363);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(22, 12);
+            this.label6.TabIndex = 36;
+            this.label6.Text = "fan";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(929, 551);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -290,6 +323,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnReset;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
     }
 }
 

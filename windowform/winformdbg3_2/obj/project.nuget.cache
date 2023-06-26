@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a3bSGPO+OhHQ9ZPl9xAO2wLzlnKNTo9tmnxGhHvB9k3dwBNSw+HIfQsuQPQpqUGY3c1AqQDqpucS+1qy0rX3Sg==",
+  "dgSpecHash": "KhlEhVXKv2NNSXmB2T+5jmP1oDvx++Cm/I6meERIQbwnzn2uq0tfB7EJOazavgd6akZU3sdcrpyvqaZbwu6dYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Downloads\\winformdbg3_2 (2)\\winformdbg3_2\\winformdbg3.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\Arduino\\windowform\\winformdbg3_2\\winformdbg3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\emgu.cv.bitmap\\4.7.0.5276\\emgu.cv.bitmap.4.7.0.5276.nupkg.sha512",
@@ -32,7 +32,8 @@
     "C:\\Users\\user\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
