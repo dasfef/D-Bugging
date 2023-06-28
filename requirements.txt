@@ -2,6 +2,8 @@ ipykernel
 tensorflow==2.8
 tensorflow-datasets
 tensorflow-hub
+tensorflowjs
+tensorflow_probability==0.16.0
 jupyter
 spyder
 matplotlib
