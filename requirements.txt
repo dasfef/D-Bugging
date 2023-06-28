@@ -12,3 +12,5 @@ pymysql
 opencv-python
 opencv-contrib-python
 protobuf==3.20.*
+roboflow
+ultralytics

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['PtecticusTenebrifer']
+
+roboflow:
+  workspace: team-dbugging
+  project: d-bugging
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/team-dbugging/d-bugging/dataset/1

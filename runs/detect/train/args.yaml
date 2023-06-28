@@ -1,8 +1,8 @@
 task: detect
 mode: train
-model: yolov8n.pt
-data: C:/Users/User/Desktop/InsectData/ConvertData/HighDefinition_data/HD_data.yaml
-epochs: 10
+model: yolov8s.pt
+data: C:/Users/user/Desktop/WORK/DBUG/D-Bugging.v1/data.yaml
+epochs: 100
 patience: 50
 batch: 16
 imgsz: 640
@@ -14,7 +14,7 @@ workers: 0
 project: null
 name: null
 exist_ok: false
-pretrained: false
+pretrained: true
 optimizer: auto
 verbose: true
 seed: 0
