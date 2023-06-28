@@ -1,5 +1,7 @@
 package com.example.d_bugging_and;
 
+//센서 값 가져오는 코드
+
 import android.os.AsyncTask;
 import org.json.JSONException;
 import org.json.JSONObject;

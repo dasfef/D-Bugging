@@ -10,7 +10,7 @@
     <WebView
         android:id="@+id/WebCam"
         android:layout_width="match_parent"
-        android:layout_height="360dp">
+        android:layout_height="323dp">
 
     </WebView>
 
@@ -51,6 +51,7 @@
             android:layout_weight="2"
             android:text="TextView"
             android:textSize="24sp" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -90,6 +91,38 @@
             android:layout_weight="2"
             android:text="TextView"
             android:textSize="24sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:orientation="horizontal">
+
+        <Switch
+            android:id="@+id/FanSwitch"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:text="팬"
+            android:textSize="20sp" />
+
+        <Switch
+            android:id="@+id/UsonicSwitch"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:text="가습기"
+            android:textSize="20sp" />
+
+        <Switch
+            android:id="@+id/LEDSwitch"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:clickable="false"
+            android:text="LED"
+            android:textSize="20sp" />
     </LinearLayout>
 
 </LinearLayout>

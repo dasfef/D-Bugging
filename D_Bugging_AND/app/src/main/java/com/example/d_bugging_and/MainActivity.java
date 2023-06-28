@@ -3,9 +3,11 @@ package com.example.d_bugging_and;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Switch;
 import android.widget.TextView;
 
 import java.util.Map;
@@ -17,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
     WebView cam;
     WebSettings webSettings;
     TextView txtTemp, txtHumi, txtCO2, txtNH4;
+    Switch fanSwitch, usonicSwitch, ledSwitch;
+
+
 
     private Timer timer;
 
@@ -25,14 +30,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        setTitle("D-Bugging");
-
         cam = findViewById(R.id.WebCam);
         txtTemp=findViewById(R.id.txtTemp);
         txtHumi=findViewById(R.id.txtHumi);
         txtCO2=findViewById(R.id.txtCO2);
         txtNH4=findViewById(R.id.txtNH4);
 
+        fanSwitch=findViewById(R.id.FanSwitch);
+        usonicSwitch=findViewById(R.id.UsonicSwitch);
+        ledSwitch=findViewById(R.id.LEDSwitch);
 
         //웹 영상 띄우기
         cam.setWebViewClient(new WebViewClient());
@@ -44,21 +50,25 @@ public class MainActivity extends AppCompatActivity {
         cam.setInitialScale(scalePercent);
         webSettings.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.SINGLE_COLUMN); // 컨텐츠 사이즈 맞추기
 
-        //webSettings.setSupportMultipleWindows(false); // 새창 띄우기 허용 여부
-        //webSettings.setJavaScriptCanOpenWindowsAutomatically(false); // 자바스크립트 새창 띄우기(멀티뷰) 허용 여부
-        //webSettings.setCacheMode(WebSettings.LOAD_NO_CACHE); // 브라우저 캐시 허용 여부
-        //webSettings.setDomStorageEnabled(true); // 로컬저장소 허용 여부
-        //webSettings.setSupportZoom(false); // 화면 줌 허용 여부
+        // WebGL을 활성화합니다.
+        webSettings.setDomStorageEnabled(true);
+        webSettings.setMixedContentMode(WebSettings.MIXED_CONTENT_COMPATIBILITY_MODE);
+
+//        webSettings.setSupportMultipleWindows(false); // 새창 띄우기 허용 여부
+//        webSettings.setJavaScriptCanOpenWindowsAutomatically(false); // 자바스크립트 새창 띄우기(멀티뷰) 허용 여부
+//        webSettings.setCacheMode(WebSettings.LOAD_NO_CACHE); // 브라우저 캐시 허용 여부
+//        webSettings.setDomStorageEnabled(true); // 로컬저장소 허용 여부
+        webSettings.setSupportZoom(true); // 화면 줌 허용 여부
 
         cam.loadUrl("http://woong.ddns.net:8800/");
 
     }
-
     private void startTimer() {
         timer = new Timer();
         timer.schedule(new TimerTask() {
             @Override
             public void run() {
+                //센서 값 가져오기
                 DataTask loadDataTask = new DataTask(new DataTask.OnDataLoadedListener() {
                     @Override
                     public void onDataLoaded(Map<String, Object> data) {
@@ -82,6 +92,30 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
                 loadDataTask.execute();
+
+                //모듈 값 가져오기
+                ModuleDataTask loadDataTask2 = new ModuleDataTask(new ModuleDataTask.OnDataLoadedListener() {
+                    @Override
+                    public void onDataLoaded(Map<String, Object> data) {
+                        String fan = (String)data.get("fan");
+                        String usonic = (String)data.get("usonic");
+                        String led = (String)data.get("lamp");
+
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                if(fan.equals("on")) fanSwitch.setChecked(true);
+                                else if(fan.equals("off")) fanSwitch.setChecked(false);
+                                if(usonic.equals("on")) usonicSwitch.setChecked(true);
+                                else if(usonic.equals("off")) usonicSwitch.setChecked(false);
+                                if(led.equals("on")) ledSwitch.setChecked(true);
+                                else if(led.equals("off")) ledSwitch.setChecked(false);
+                            }
+                        });
+                    }
+                });
+                loadDataTask2.execute();
+
             }
         }, 0, 1000); // 1초마다 업데이트
     }
