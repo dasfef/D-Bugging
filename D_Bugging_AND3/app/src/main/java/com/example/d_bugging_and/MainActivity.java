@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true); // 웹페이지 자바스클비트 허용 여부 - 동적 컨텐츠 시 필요
         webSettings.setLoadWithOverviewMode(true); // 메타태그 허용 여부 - 웹페이지의 html 허용 여부
         webSettings.setUseWideViewPort(true); // 화면 사이즈 맞추기 허용 여부
-        int scalePercent = 160; // 150%로 확대
+        int scalePercent = 250; // 300%로 확대
         cam.setInitialScale(scalePercent);
         webSettings.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.SINGLE_COLUMN); // 컨텐츠 사이즈 맞추기
 
